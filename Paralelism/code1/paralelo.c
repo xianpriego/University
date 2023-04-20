@@ -1,4 +1,4 @@
-//Xian Priego Martin
+
 
 #include <stdio.h>
 #include <stdlib.h>

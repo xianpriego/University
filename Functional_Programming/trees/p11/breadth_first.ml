@@ -1,6 +1,4 @@
-(*Xian Priego Martin
-   39457432N
-   Grupo 4.3*)
+
 
 
 open G_tree;;

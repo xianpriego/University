@@ -1,10 +1,4 @@
-/*--------------------------------PRÁCTICA_1-----------------------------------
 
-Santiago Alfredo Castro Rampesad (s.a.castro.rampersad) (54940335M)
-Xian Priego Martín (xian.priego) (39457432N)
-
-GRUPO 4.3
------------------------------------------------------------------------------*/
 #define  _GNU_SOURCE 700
 #define _XOPEN_SOURCE 700
 #define LENGTH 4096

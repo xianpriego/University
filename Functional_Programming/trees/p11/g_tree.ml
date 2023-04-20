@@ -1,6 +1,4 @@
-(*Xian Priego Martin
-   39457432N
-   Grupo 4.3*)
+
 
 type 'a g_tree =
   Gt of 'a * 'a g_tree list

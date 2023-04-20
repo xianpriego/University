@@ -1,4 +1,4 @@
-(*Xian Priego Martín, 39457432N*)
+
 
 #load "talf.cma";;
 open Conj;;
